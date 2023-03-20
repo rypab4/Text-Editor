@@ -56,7 +56,17 @@ npm install
 
 1.  If running using local server with the github repo, npm start.  Otherwise go to https://text-editor-2023-again.herokuapp.com/
 
-2.  
+2.  Going through the github repo and npm start will create a database, editor, header, install, and main bundle.  A manifest bundle will also be created.
+![alt text](/README_imgs/manifest.png)
+
+3.  The text editor will look like the following:
+![alt text](/README_imgs/JATE_first_image.png)
+
+4.  The text editor also shows the application's registered service worker.
+![alt text](/README_imgs/SW.png)
+
+5.  The text editor also will have an indexed database
+![alt text](/README_imgs/indexDB.png)
 
 
 ## License

@@ -68,6 +68,8 @@ npm install
 5.  The text editor also will have an indexed database
 ![alt text](/README_imgs/indexDB.png)
 
+6.  When you install the application it will look like this:
+![alt text](/README_imgs/install.png)
 
 ## License
     
